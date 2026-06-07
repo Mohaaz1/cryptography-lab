@@ -1,0 +1,4 @@
+BIT3208 - Cryptography Lab
+Week 4: Block Cipher Design & AES
+This is a confidential document encrypted using AES-256-CBC.
+Unauthorized parties cannot read this content without the key.
